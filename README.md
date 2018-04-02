@@ -1,6 +1,6 @@
 # imitate-kugou
 
-> A Vue.js project
+> A Vue.js + mint-ui project
 
 ## Build Setup
 

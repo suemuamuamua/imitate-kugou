@@ -12,14 +12,14 @@
 </template>
 
 <script>
-    export default {
-      name: "head",
-      methods: {
-          search() {
-            console.log('search')
-          }
-      }
+export default {
+  name: 'head',
+  methods: {
+    search () {
+      console.log('search')
     }
+  }
+}
 </script>
 
 <style scoped>

@@ -1,3 +1,6 @@
 .mint-tab-item-label {
-  font-size: 14px;
+  font-size: 16px;
+}
+.mint-cell {
+  border-top: 1px solid #eee;
 }
